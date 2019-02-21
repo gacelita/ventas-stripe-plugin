@@ -1,4 +1,4 @@
-(defproject ventas-stripe-plugin "0.1.1-SNAPSHOT"
+(defproject ventas-stripe-plugin "0.1.1"
   :description "Stripe plugin for ventas"
 
   :url "https://github.com/joelsanchez/ventas-stripe-plugin"
