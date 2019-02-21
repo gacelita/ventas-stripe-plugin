@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "src/scss/ventas/plugins/stripe/core.css",
+	"sources": [
+		"src/scss/ventas/plugins/stripe/core.scss",
+		"src/scss/ventas/plugins/stripe/core.scss/JSASS_CUSTOM.scss"
+	],
+	"sourcesContent": [
+		"\n.StripeElement {\n  display: block;\n  margin-bottom: 1em;\n  max-width: 500px;\n  border: 1px solid rgba(34,36,38,.15);\n  border-radius: .28571429rem;\n  color: rgba(0,0,0,.95);\n  font-size: 1em;\n  line-height: 1.21428571em;\n  padding: .67857143em 1em;\n}\n\n.stripe-form {\n    label {\n        margin: 0 0 .28571429rem 0;\n    }\n}",
+		"$jsass-void: jsass_import_stack_push(1) !global;\n"
+	],
+	"mappings": "AACA,AAAA,cAAc,AAAC,CACb,OAAO,CAAE,KAAM,CACf,aAAa,CAAE,GAAI,CACnB,SAAS,CAAE,KAAM,CACjB,MAAM,CAAE,GAAG,CAAC,KAAK,CAAC,mBAAI,CACtB,aAAa,CAAE,YAAa,CAC5B,KAAK,CAAE,gBAAI,CACX,SAAS,CAAE,GAAI,CACf,WAAW,CAAE,YAAa,CAC1B,OAAO,CAAE,eAAgB,CAC1B,AAED,AACI,YADQ,CACR,KAAK,AAAC,CACF,MAAM,CAAE,kBAAmB,CAC9B",
+	"names": []
+}
